@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Displays the number 6 on startup. When the "Step" button is held, it changes to display the number 7.
 
 ## How to test
 
-Explain how to use your project
+Hold down the "Step" button.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+NA
