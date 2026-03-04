@@ -4,7 +4,7 @@ project:
   title:        "CS First Wokwi design"      # Project title
   author:       "Cameron Spearing"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Not complete"      # One line description of what your project does
+  description:  "Displays 6 by default and displays 7 when button is pressed"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     100000       # Clock frequency in Hz (or 0 if not applicable)
 
